@@ -12,7 +12,6 @@ let jobsData = [
     option: "IOS",
     text: "IOS developer with 5 years of experience",
   },
-  ,
   {
     option: "ASP.NET",
     text: "ASP.NET developer with 4 years of experience",
